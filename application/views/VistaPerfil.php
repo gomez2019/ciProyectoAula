@@ -15,7 +15,7 @@
 			
 			Swal.fire(
 				'Registro exitoso',
-				'Binevenido a Facefet <?php echo $nombre ?> ',
+				'Binevenido <?php echo $nombre ?> ',
 				'success'
 				)
 			</script>
